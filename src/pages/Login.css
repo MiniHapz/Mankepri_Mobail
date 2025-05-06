@@ -1,0 +1,9 @@
+/* src/pages/Login/Login.css */
+
+.ion-padding {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+  }
+  
